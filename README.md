@@ -24,6 +24,10 @@ pip3 install requriments.txt
 
 
 
+https://github.com/ajayvb03/Garudaastra/assets/49941387/a31d4e17-be77-44e2-bd79-ac50307548b5
+
+
+
 ## Disclaimer
 This tool is for educational purposes only, I am not responsible for its use.
 ## Feedback
