@@ -15,9 +15,9 @@ pip3 install folium
 
 pip3 install tabulate
 ```
-or you can use requriments.txt file to setup the tool 
+then you can run main.py
 ```bash
-pip3 install requriments.txt
+python3 main.py
 ```
 
 ## Demo
