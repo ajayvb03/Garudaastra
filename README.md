@@ -14,6 +14,12 @@ pip3 install shodan
 pip3 install folium
 
 pip3 install tabulate
+
+Add your API_KRY to main.py
+```#set your shodan api key
+API_KEY = 'API_KEY'
+```
+
 ```
 then you can run main.py
 ```bash
