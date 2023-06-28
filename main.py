@@ -4,7 +4,7 @@ from tabulate import tabulate
 import os
 
 #set your shodan api key
-API_KEY = 'IbL3g2JzBiRd2BYKVCCaYhdIS6WCpPlP'
+API_KEY = 'API_KEY'
 
 #create an instance of the shodan api object
 api = shodan.Shodan(API_KEY)
