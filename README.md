@@ -8,7 +8,7 @@ it also mark the location of cameras on map . you can specify city,country,organ
 ## Installation
 
 this tool is based on python3 before starting you need to install below libraries
-# For linux based distros****
+# For linux based distros
 ```bash
 pip3 install shodan
 
@@ -24,7 +24,22 @@ then you can run main.py
 ```bash
 python3 main.py
 ```
+#For windows
+```bash
+pip install shodan
 
+pip install folium
+
+pip install tabulate
+```
+Add your API_KRY to main.py
+```#set your shodan api key
+API_KEY = 'API_KEY'
+```
+then you can run main.py
+```bash
+python main.py
+```
 ## Demo
 
 
