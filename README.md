@@ -24,7 +24,7 @@ then you can run main.py
 ```bash
 python3 main.py
 ```
-#For windows
+# For windows
 ```bash
 pip install shodan
 
