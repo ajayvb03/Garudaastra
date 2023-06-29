@@ -7,7 +7,8 @@ it also mark the location of cameras on map . you can specify city,country,organ
 
 ## Installation
 
-this tool is based on python3 before starting you need to install below libraries using  pip3
+this tool is based on python3 before starting you need to install below libraries
+# For linux based distros****
 ```bash
 pip3 install shodan
 
